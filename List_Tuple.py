@@ -5,6 +5,6 @@ for i in range(len(length)):
 #If Condition:
         if length[i][1] < length[j][1]:
             length[i],length[j] = length[j],length[i]
-#print:
+#Print:
 print(length)
             
